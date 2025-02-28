@@ -5,7 +5,7 @@ This package provides a simple way to mask email addresses in your Laravel appli
 ## Installation
 
 ```bash
-composer require tchilly/email-masking
+composer require Tchilly/EmailMasking
 ```
 
 ## Usage
